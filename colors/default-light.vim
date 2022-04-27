@@ -20,7 +20,7 @@ highlight TabLine        cterm=underline ctermfg=0 ctermbg=7
 highlight TabLineSel     cterm=bold
 highlight TabLineFill    cterm=reverse
 highlight CursorColumn   ctermbg=7
-highlight CursorLine     cterm=underline
+highlight CursorLine     cterm=NONE
 highlight MatchParen     ctermbg=14
 highlight Constant       ctermfg=1
 highlight Special        ctermfg=5
